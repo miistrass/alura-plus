@@ -9,6 +9,7 @@
 ### Status
 
 Concluído ✅
+Você pode acessar a Landing Page para ver como ficou aqui: https://miistrass.github.io/alura-plus/
 
 ---
 
